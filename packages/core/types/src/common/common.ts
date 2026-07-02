@@ -1,3 +1,5 @@
+import type { InternalQueryOptions } from "../dal/cross-module-query"
+
 /**
  * Prettify complex types to a flat object structure
  */
@@ -107,6 +109,13 @@ export interface FindConfig<Entity> {
    * Enable ORM specific defined options
    */
   options?: Record<string, any>
+
+  /**
+   * Internal-only query options not exposed in public APIs.
+   *
+   * @internal
+   */
+  __internal?: InternalQueryOptions
 }
 
 /**

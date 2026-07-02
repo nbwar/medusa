@@ -52,6 +52,11 @@ export function buildQuery<const T = any>(
     Object.assign(findOptions, config.options)
   }
 
+  if (config.__internal?.crossModuleJoins?.length) {
+    findOptions.__internal ??= {}
+    findOptions.__internal.crossModuleJoins = config.__internal.crossModuleJoins
+  }
+
   return { where, options: findOptions } as Required<DAL.FindOptions<T>>
 }
 
