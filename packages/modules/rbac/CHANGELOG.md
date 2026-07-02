@@ -1,5 +1,12 @@
 # @medusajs/rbac
 
+## 2.17.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.17.3
+
 ## 2.17.2
 
 ### Patch Changes

@@ -1,5 +1,37 @@
 # integration-tests-http
 
+## 1.1.20
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/modules-sdk@2.17.3
+  - @medusajs/framework@2.17.3
+  - @medusajs/core-flows@2.17.3
+  - @medusajs/medusa@2.17.3
+  - @medusajs/test-utils@2.17.3
+  - @medusajs/api-key@2.17.3
+  - @medusajs/auth@2.17.3
+  - @medusajs/cache-inmemory@2.17.3
+  - @medusajs/customer@2.17.3
+  - @medusajs/event-bus-local@2.17.3
+  - @medusajs/event-bus-redis@2.17.3
+  - @medusajs/fulfillment@2.17.3
+  - @medusajs/inventory@2.17.3
+  - @medusajs/pricing@2.17.3
+  - @medusajs/product@2.17.3
+  - @medusajs/promotion@2.17.3
+  - @medusajs/fulfillment-manual@2.17.3
+  - @medusajs/region@2.17.3
+  - @medusajs/stock-location@2.17.3
+  - @medusajs/store@2.17.3
+  - @medusajs/tax@2.17.3
+  - @medusajs/translation@2.17.3
+  - @medusajs/user@2.17.3
+  - @medusajs/workflow-engine-inmemory@2.17.3
+  - @medusajs/loyalty-plugin@2.17.3
+  - @medusajs/utils@2.17.3
+
 ## 1.1.19
 
 ### Patch Changes

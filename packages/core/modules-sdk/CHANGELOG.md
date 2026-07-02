@@ -1,5 +1,14 @@
 # @medusajs/modules-sdk
 
+## 2.17.3
+
+### Patch Changes
+
+- Updated dependencies [[`2962faf657018e6ad180ba9ac1fec771c3040c56`](https://github.com/medusajs/medusa/commit/2962faf657018e6ad180ba9ac1fec771c3040c56)]:
+  - @medusajs/query@2.17.3
+  - @medusajs/utils@2.17.3
+  - @medusajs/deps@2.17.3
+
 ## 2.17.2
 
 ### Patch Changes

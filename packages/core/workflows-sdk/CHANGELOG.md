@@ -1,5 +1,15 @@
 # @medusajs/workflows-sdk
 
+## 2.17.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/modules-sdk@2.17.3
+  - @medusajs/orchestration@2.17.3
+  - @medusajs/utils@2.17.3
+  - @medusajs/deps@2.17.3
+
 ## 2.17.2
 
 ### Patch Changes
